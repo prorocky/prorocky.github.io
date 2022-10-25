@@ -201,6 +201,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
+		font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 		margin-bottom: 2em;
 	}
 
@@ -1831,6 +1832,10 @@ input, select, textarea {
 					background-color: #C4376B;
 				}
 
+				ul.social li a.fa-discord {
+					background-color: #738ADB;
+				}
+
 				ul.social li a.fa-linkedin-in {
 					background-color: #006599;
 				}
@@ -1974,7 +1979,7 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #EA8A95;
+			color: #e88615;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
